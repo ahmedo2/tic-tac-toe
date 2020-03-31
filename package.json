@@ -1,0 +1,23 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-oublihi/tic-tac-toe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://ahmed-oublihi.github.io/tic-tac-toe",
+  "bugs": {
+    "url": "https://github.com/ahmed-oublihi/tic-tac-toe/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
